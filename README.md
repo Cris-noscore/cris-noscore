@@ -1,8 +1,11 @@
-# 👩🏻‍💻 Cristiano Silveira
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/> Cristiano Silveira 
 
-**`Desenvolvedor FullStack`**
 
-Olá! Eu sou o Cristiano Silveira 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=Desenvolvedor+FullStack;Bem-vindo+ao+meu+GitHub!)
+
+
+Olá! Eu sou o Cristiano Silveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+
 
 📍 Moro em Cotia  
 🎓 Estudante de Desenvolvimento de Software Multiplataforma pela Fatec Cotia  
