@@ -1,17 +1,21 @@
 # <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/> Cristiano Silveira 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=Desenvolvedor+FullStack;Bem-vindo+ao+meu+GitHub!)
+# Cristiano Silveira
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Professor;Desenvolvedor+de+Software;Apaixonado+por+Tecnologia)
 
-Olá! Eu sou o Cristiano Silveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+## Olá! Eu sou o Cristiano Silveira 👋
 
+📍 Moro em Cotia - SP  
+👨‍🏫 Professor na área de Tecnologia e Desenvolvimento de Software  
+💻 Desenvolvedor apaixonado por criar soluções utilizando tecnologias como **Node.js, React, Python, SQL e NoSQL**  
+🛠️ Experiência prática em projetos de desenvolvimento, incluindo a criação da **Ícaros**, uma rede social voltada para músicos  
+🚀 Interessado em **Engenharia de Software, UX, Inteligência Artificial e desenvolvimento de aplicações multiplataforma**
 
-📍 Moro em Cotia  
-🎓 Estudante de Desenvolvimento de Software Multiplataforma pela Fatec Cotia  
-🧑 💻 Apaixonado por criar soluções inovadoras usando tecnologias como Node.js, React, Python, SQL e NoSQL  
-🛠️ Experiência prática em projetos de desenvolvimento, incluindo a criação da Ícaros, uma rede social musical  
-📫 Você pode me contatar via LinkedIn ou dar uma olhada nos meus projetos no GitHub  
+📫 **Conecte-se comigo:**  
+- LinkedIn  
+- Confira também meus projetos aqui no GitHub
 
 <p align="left">
     <a href="https://www.linkedin.com/in/cristiano-silveira2810">
