@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/> Cristiano Silveira 
 
 
-# Cristiano Silveira
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Professor;Desenvolvedor+de+Software;Apaixonado+por+Tecnologia)
 
